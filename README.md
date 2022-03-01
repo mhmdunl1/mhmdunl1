@@ -9,5 +9,5 @@ I'm Student Of 'Ecole42'
 </p>
 
 <br />
-
+[![munal's 42 stats](https://badge42.herokuapp.com/api/stats/munal?darkmode=true&cursus=C%20Piscine)]
 [![munal's 42 stats](https://badge42.herokuapp.com/api/stats/munal?privacyEmail=true)]
