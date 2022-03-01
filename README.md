@@ -9,5 +9,5 @@ I'm Student Of 'Ecole42'
 </p>
 
 <br />
-[![munal's 42 stats](https://badge42.herokuapp.com/api/stats/munal?darkmode=true&cursus=C%20Piscine)]<br>
+(https://github.com/JaeSeoKim/badge42)[![bdurmus's 42 stats](https://badge42.herokuapp.com/api/stats/bdurmus?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 [![munal's 42 stats](https://badge42.herokuapp.com/api/stats/munal?privacyEmail=true)]
