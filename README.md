@@ -1,4 +1,4 @@
-### ~Muhammed Ünal~
+### Muhammed Ünal
 I'm Student Of 'Ecole42'
 ### Contact
     E-mail : **mhmdunlic@gmail.com**
