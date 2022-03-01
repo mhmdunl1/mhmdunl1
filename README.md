@@ -8,6 +8,4 @@ I'm Student Of 'Ecole42'
 <a href="https://www.instagram.com/muhammedunal82/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zuck" height="30" width="40" /></a>
 </p>
 
-<br />
-(https://github.com/JaeSeoKim/badge42)[![bdurmus's 42 stats](https://badge42.herokuapp.com/api/stats/bdurmus?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 [![munal's 42 stats](https://badge42.herokuapp.com/api/stats/munal?privacyEmail=true)]
