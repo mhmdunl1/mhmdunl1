@@ -1,7 +1,7 @@
 ### Muhammed Ünal
 
   
-I'm Student Of 'Ecole42'
+I'm Frontend Dev.
 
 ### Connect with me:
 
